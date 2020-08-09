@@ -70,5 +70,5 @@ Note:  I had planned to keep the list of devices up to date, but due to the outb
 
 ## License
 
-This project is available under [The MPL-2.0 License](Mozilla Public License 2.0).  
+This project is available under [The MPL-2.0 License](https://www.mozilla.org/en-US/MPL/2.0/).  
 Copyright © 2020, [Eric Reedy](mailto:eric@madcapstudios.com). See [LICENSE](LICENSE) file.
