@@ -17,7 +17,7 @@ This is a simple library which adds an extension to UIScreen that provides infor
 - To reorient eye locations from the camera to the center of the screen for perspective-based transforms.
 - To feel good about having just that little bit more information about the device your code is currently running on.
 
-## Installation and use
+## Installation
 
 FFCameraLocation is available through [CocoaPods](http://cocoapods.org). To install, simply add the following line to your Podfile:
 
